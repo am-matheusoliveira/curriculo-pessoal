@@ -35,14 +35,17 @@
 
             <div class="w3-container">
               
-              <p class="font-default"><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-brown"></i>Web - Software Developer</p>
-              <p class="font-default"><i class="fa fa-home      fa-fw w3-margin-right w3-large w3-text-brown"></i>Cristalina, Goiás</p>
-              <p class="font-default"><i class="fa fa-envelope  fa-fw w3-margin-right w3-large w3-text-brown"></i>sap.matheusoliveira@gmail.com</p>
+              <p class="font-default"><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-brown"></i>PHP | Full Stack Developer</p>
               <p class="font-default"><i class="fa fa-phone     fa-fw w3-margin-right w3-large w3-text-brown"></i>(98) 99196-8439</p>
+              <p class="font-default"><i class="fa fa-envelope  fa-fw w3-margin-right w3-large w3-text-brown"></i>sap.matheusoliveira@gmail.com</p>
+              <p class="font-default"><i class="fa fa-home      fa-fw w3-margin-right w3-large w3-text-brown"></i>Cristalina, Goiás</p>
+              <p class="font-default"><i class="fa fa-linkedin  fa-fw w3-margin-right w3-large w3-text-brown"></i>am-matheusoliveira</p>
+              <p class="font-default"><i class="fa fa-github    fa-fw w3-margin-right w3-large w3-text-brown"></i>am-matheusoliveira</p>
+              <p class="font-default"><i class="fa fa-instagram fa-fw w3-margin-right w3-large w3-text-brown"></i>am.matheusoliveira</p>
               
               <hr>
-
-              <p class="w3-large font-default"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-brown"></i>Habilidades</b></p>
+              
+              <p class="w3-large font-default"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-brown"></i>Hard Skills</b></p>
               
               <p class="font-default">Linguagem PHP</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -163,7 +166,7 @@
 
             <div class="w3-container">
               <h5 class="w3-opacity font-default"><b>PHP Full Stack Developer Pleno / Meconect - São Paulo</b></h5>
-              <h6 class="w3-text-brown font-default font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Outubro 2024 - Março 2025 (6 mêses)</h6>
+              <h6 class="w3-text-brown font-default font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Outubro 2024 - o momento</h6>
               
               <p class="font-default">
                 ✔ Desenvolvimento e manutenção do back-end da MeConnect utilizando PHP e AWS.                     <br>
