@@ -1,4 +1,13 @@
 
+/* Importação da fonte Nunito */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap');
+
+/* Configuração de fonte padrão para todo o sistema */
+.font-default{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 500 !important;
+}
+
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 

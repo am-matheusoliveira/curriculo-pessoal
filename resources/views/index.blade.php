@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
   <head>
     <title>Curriculo Pessoal</title>
     <meta charset="UTF-8">
@@ -29,93 +29,113 @@
               <img src="images/avatar_hat.jpg" class="w3-round w3-image" alt="Avatar">
 
               <div class="w3-display-bottomleft w3-container w3-brown w3-text-black w3-round" id="w3-container-texto-sobre-imagem">
-                <h2>Matheus Pereira</h2>
+                <h2 class="font-default">Matheus Pereira</h2>
               </div>
             </div>
 
             <div class="w3-container">
               
-              <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-brown"></i>Web - Software Developer</p>
-              <p><i class="fa fa-home      fa-fw w3-margin-right w3-large w3-text-brown"></i>Cristalina, Goiás</p>
-              <p><i class="fa fa-envelope  fa-fw w3-margin-right w3-large w3-text-brown"></i>sap.matheusoliveira@gmail.com</p>
-              <p><i class="fa fa-phone     fa-fw w3-margin-right w3-large w3-text-brown"></i>(98) 99196-8439</p>
+              <p class="font-default"><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-brown"></i>Web - Software Developer</p>
+              <p class="font-default"><i class="fa fa-home      fa-fw w3-margin-right w3-large w3-text-brown"></i>Cristalina, Goiás</p>
+              <p class="font-default"><i class="fa fa-envelope  fa-fw w3-margin-right w3-large w3-text-brown"></i>sap.matheusoliveira@gmail.com</p>
+              <p class="font-default"><i class="fa fa-phone     fa-fw w3-margin-right w3-large w3-text-brown"></i>(98) 99196-8439</p>
               
               <hr>
 
-              <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-brown"></i>Habilidades</b></p>
+              <p class="w3-large font-default"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-brown"></i>Habilidades</b></p>
               
-              <p>Linguagem PHP</p>
+              <p class="font-default">Linguagem PHP</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 80%;">80%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
               </div>
 
-              <p>Framework Laravel</p>
+              <p class="font-default">Framework Laravel</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 70%;">70%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
               </div>
 
-              <p>Linguagem Delphi</p>
+              <p class="font-default">Web(HTML 5 | CSS 3 | Javascript)</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 50%;">50%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
               </div>
 
-              <p>Web(HTML 5 | CSS 3 | Javascript)</p>
+              <p class="font-default">Bootstrap v5</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 80%;">80%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 85%;">85%</div>
               </div>
 
-              <p>Bootstrap 5</p>
+              <p class="font-default">Tailwind CSS v4</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 85%;">85%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 70%;">70%</div>
               </div>
 
-              <p>MS-Office(Word | Excel | PowerPoint)</p>
+              <p class="font-default">Vue.js v3.5</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 60%;">60%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 70%;">70%</div>
+              </div>              
+
+              <p class="font-default">MS-SQL Server</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 85%;">85%</div>
+              </div>
+              
+              <p class="font-default">Oracle MySQL</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 85%;">85%</div>
+              </div>
+              
+              <p class="font-default">Oracle Database</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 85%;">85%</div>
               </div>
 
-              <p>Banco de Dados(SQL-Server | MySQL | Oracle)</p>
+              <p class="font-default">Containers Docker</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 85%;">85%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
               </div>
 
-              <p>Containers Docker</p>
+              <p class="font-default">Versionamento Git e GitHub</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 70%;">70%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
               </div>
 
-              <p>Versionamento Git e GitHub</p>
+              <p class="font-default">Sistema Operacional Linux</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 80%;">80%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 85%;">85%</div>
               </div>
 
-              <p>Sistemas Operacionais(Linux | Windows)</p>
+              <p class="font-default">Amazon AWS(EC2, SQS, RDS)</p>
               <div class="w3-light-grey w3-round-xlarge w3-small">
-                <div class="w3-container w3-center w3-round-xlarge w3-brown" style="width: 85%;">85%</div>
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
+              </div>
+
+              <p class="font-default">Servidor Web - Nginx</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
+              </div>
+              
+              <p class="font-default">Servidor Web - Apache</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-brown font-default" style="width: 80%;">80%</div>
               </div>
               
               <br>
               <hr>
-
+              
               <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-brown"></i>Idiomas</b></p>
               
-              <p>Português</p>
+              <p class="font-default">Português</p>
               <div class="w3-light-grey w3-round-xlarge">
                 <div class="w3-round-xlarge w3-brown" style="height: 18.223px; width: 100%"></div>
               </div>
               
-              <p>Inglês</p>
+              <p class="font-default">Inglês</p>
               <div class="w3-light-grey w3-round-xlarge">
                 <div class="w3-round-xlarge w3-brown" style="height: 18.223px; width: 30%"></div>
               </div>
 
-              <p>Espanhol</p>
-              <div class="w3-light-grey w3-round-xlarge">
-                <div class="w3-round-xlarge w3-brown" style="height: 18.223px; width: 10%"></div>
-              </div>
-              
               <br>
-
+              
             </div>
           </div>
           
@@ -129,9 +149,9 @@
 
           <div class="w3-container w3-card w3-white w3-margin-bottom w3-round">
             
-            <h2 class="w3-text-grey w3-padding-16"><img class="w3-margin-right w3-xxlarge" src="images/icons/objective.png" style="width: 40px;"></i>Objetivo Profissional</h2>
+            <h2 class="w3-text-grey w3-padding-16 font-default"><img class="w3-margin-right w3-xxlarge" src="images/icons/objective.png" style="width: 40px;"></i>Objetivo Profissional</h2>
 
-            <div class="w3-container">
+            <div class="w3-container font-default">
               <p>Utilizar minha sólida experiência em desenvolvimento web com PHP para criar soluções eficientes e inovadoras, contribuindo com minha equipe em projetos desafiadores e entregando resultados de alta qualidade.</p>
             </div>
 
@@ -139,28 +159,50 @@
 
           <div class="w3-container w3-card w3-white w3-margin-bottom w3-round">
             
-            <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Experiência Profissional</h2>
-            
+            <h2 class="w3-text-grey w3-padding-16 font-default"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Experiências Profissionais</h2>
+
             <div class="w3-container">
-              <h5 class="w3-opacity"><b>Web Programmer Analyst / Cantanhede Participações Holding</b></h5>
-              <h6 class="w3-text-brown"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Janeiro 2021 - Outubro 2023</h6>
+              <h5 class="w3-opacity font-default"><b>PHP Full Stack Developer Pleno / Meconect - São Paulo</b></h5>
+              <h6 class="w3-text-brown font-default font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Outubro 2024 - Março 2025 (6 mêses)</h6>
               
-              <p>
-                Codificava, testava e implementava funcionalidades e correções nos sites e nas aplicações.<br />
-                Levantava e entendia as necessidades dos clientes para criar soluções adequadas.<br />
-                Criava e gerenciava bancos de dados específicos junto a um DBA, garantindo eficiência e integridade dos dados.
+              <p class="font-default">
+                ✔ Desenvolvimento e manutenção do back-end da MeConnect utilizando PHP e AWS.                     <br>
+                ✔ Implementação de novas funcionalidades para os portais do vendedor, fornecedor e administração. <br>
+                ✔ Integração com Marketplaces via API, permitindo o gerenciamento de vendas, pedidos e produtos.  <br>
+                ✔ Otimização de consultas e processos no banco de dados MySQL.                                    <br>
+                ✔ Uso de jQuery, Ajax e Bootstrap no front-end para aprimorar a interface do usuário.             <br>
+                ✔ Manutenção do ambiente de hospedagem em Linux Debian, utilizando Nginx como servidor web.       <br>
+                ✔ Trabalho com Amazon EC2, S3, SQS e gerenciamento de redes na AWS.                               <br>
               </p>
 
               <hr>
             </div>
 
             <div class="w3-container">
-              <h5 class="w3-opacity"><b>Systems Programmer Assistant / Zoe Tecnologia – Software House</b></h5>
-              <h6 class="w3-text-brown"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Outubro 2018 - Outubro 2020</h6>
-              <p>
-                Auxiliava na codificação e implementação de novas funcionalidades nos sistemas e nas aplicações.<br />
-                Identificava e corrigia erros no código e realizava testes para garantir a qualidade do software.<br />
-                Registrava e atualizava a documentação técnica para facilitar a manutenção e compreensão do código.
+              <h5 class="w3-opacity font-default"><b>Laravel Backend Developer / Prumo Engenharia - Minas Gerais</b></h5>
+              <h6 class="w3-text-brown font-default font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Outubro 2024 - Março 2025 (6 mêses)</h6>
+              
+              <p class="font-default">
+                ✔ Desenvolvimento e manutenção de sistemas internos utilizando Laravel, PHP e MySQL.            <br>
+                ✔ Implementação e aprimoramento do Sistema de Mobilização para atender às operações da empresa. <br>
+                ✔ Integração de soluções com o ERP Protheus, garantindo a sincronização de dados.               <br>
+                ✔ Atendimento a demandas dos usuários internos e suporte técnico para resolução de problemas.   <br>
+                ✔ Configuração e manutenção de ambientes utilizando Docker e Linux.                             <br>
+                ✔ Colaboração com o tech lead e participação em reuniões semanais para alinhamento de demandas. <br>
+              </p>
+
+              <hr>
+            </div>
+            
+            <div class="w3-container">
+              <h5 class="w3-opacity font-default"><b>Full Stack Developer Junior / Grupo Atlântica - Maranhão</b></h5>
+              <h6 class="w3-text-brown font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Janeiro 2021 - Outubro 2023 (2 a 10 m)</h6>
+              <p class="font-default">
+                ✔ Análise de requisitos e desenvolvimento de soluções customizadas.                   <br>
+                ✔ Colaboração com usuários internos para identificar necessidades e propor melhorias. <br>
+                ✔ Implementação de melhorias em sistemas existentes para otimizar processos.          <br>
+                ✔ Suporte técnico contínuo garantindo eficiência dos sistemas.                        <br>
+                ✔ Identificação e resolução de problemas com base no feedback dos usuários.           <br>
               </p>
             </div>
 
@@ -168,52 +210,47 @@
 
           <div class="w3-container w3-card w3-white w3-margin-bottom w3-round">
             
-            <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Educação</h2>
+            <h2 class="w3-text-grey w3-padding-16 font-default"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Formação Acadêmica</h2>
             
             <div class="w3-container">
-              <h5 class="w3-opacity"><b>UNIP - Universidade Paulista</b></h5>
-              <h6 class="w3-text-brown"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2018 - 2021</h6>
-              <p>Tecnólogo em Análise e Desenvolvimento de Sistemas</p>
+              <h5 class="w3-opacity font-default"><b>UNIP - Universidade Paulista</b></h5>
+              <h6 class="w3-text-brown font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2018 - 2021</h6>
+              <p class="font-default">Tecnólogo em Análise e Desenvolvimento de Sistemas</p>
               <hr>
             </div>
 
             <div class="w3-container">
-              <h5 class="w3-opacity"><b>E.E. Barão do Rio Branco</b></h5>
-              <h6 class="w3-text-brown"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2004 - 2017</h6>
-              <p>Ensino Fundamental é Médio</p>
+              <h5 class="w3-opacity font-default"><b>E.E. Barão do Rio Branco</b></h5>
+              <h6 class="w3-text-brown font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2004 - 2017</h6>
+              <p class="font-default">Ensino Fundamental é Médio</p>
             </div>
             
           </div>
 
           <div class="w3-container w3-card w3-white w3-margin-bottom w3-round">
             
-            <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Cursos Adicionais</h2>
+            <h2 class="w3-text-grey w3-padding-16 font-default"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Cursos Adicionais</h2>
             
             <div class="w3-container">
-              <h5 class="w3-opacity"><b>Impacta Tecnologia SP</b></h5>
-              <h6 class="w3-text-brown"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021/06 - 2021/12</h6>
-              <p>Web Developer Full Stack - (php, laravel e bootstrap) 120h</p>
+              <h5 class="w3-opacity font-default"><b>Impacta Tecnologia - São Paulo</b></h5>
+              <h6 class="w3-text-brown font-default"><i class="fa fa-calendar fa-fw w3-margin-right"></i>06/2021 - 12/2021</h6>
+              <p class="font-default">PHP Full Stack Developer - (PHP | Laravel | Bootstrap) 120h</p>
             </div>
             
           </div>
 
           <div class="w3-container w3-card w3-white w3-round">
             
-            <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-users fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Soft Skills</h2>
+            <h2 class="w3-text-grey w3-padding-16 font-default"><i class="fa fa-users fa-fw w3-margin-right w3-xxlarge w3-text-brown"></i>Soft Skills</h2>
             
             <div class="w3-container">
-              <!--
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Comunicação Eficaz</p>              
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Inteligência Emocional</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Educado</p>
-              --> 
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Responsabilidade</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Proatividade</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Trabalho em equipe</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Adaptabilidade</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Atento aos detalhes</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Boa Comunicação</p>
-              <p><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Esforçado e autodidata</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Responsabilidade</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Proatividade</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Trabalho em equipe</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Adaptabilidade</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Atento aos detalhes</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Boa Comunicação</p>
+              <p class="font-default"><i class="fa fa-check-square fa-fw w3-margin-right w3-text-brown"></i>Esforçado e autodidata</p>
             </div>
           </div>          
 
@@ -227,14 +264,11 @@
     </div>
 
     <footer class="w3-container w3-brown w3-center w3-margin-top w3-padding-16">
-      <p>Encontre-me nas redes sociais.</p>
-
+      <p class="font-default">Encontre-me nas redes sociais.</p>
+      
       <a href="https://www.linkedin.com/in/am-matheusoliveira/"        target="_blank">                  <i class="fa fa-linkedin  w3-hover-opacity fa-lg"></i></a>
       <a href="https://github.com/am-matheusoliveira?tab=repositories" target="_blank" class="w3-margin"><i class="fa fa-github    w3-hover-opacity fa-lg"></i></a>
-      <a href="https://www.instagram.com/am.matheusoliveira/"          target="_blank">                  <i class="fa fa-instagram w3-hover-opacity fa-lg"></i></a>
-      
-      <!-- <p>Desenvolvido por <a href="https://www.linkedin.com/in/am-matheusoliveira/" target="_blank">Matheus Pereira</a></p> -->
-
+      <a href="https://www.instagram.com/am.matheusoliveira/"          target="_blank">                  <i class="fa fa-instagram w3-hover-opacity fa-lg"></i></a>            
     </footer>
 
   </body>
